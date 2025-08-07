@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Indonesia 🇮🇩</h3>
 
 ---
-<img align="right" alt="GIF" height="200px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG44emRhcXA1Ymwyc2JjbWR5NmRjeDdvNXBybW13aTR2b3FsNmFtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="GIF" height="180px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG44emRhcXA1Ymwyc2JjbWR5NmRjeDdvNXBybW13aTR2b3FsNmFtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 🌱 I’m currently learning:  
 `Laravel`, `React`, `Tailwind`, and `API Integration`
 
