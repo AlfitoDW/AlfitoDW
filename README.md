@@ -6,6 +6,8 @@
 🌱 I’m currently learning:  
 `Laravel`, `React`, `Tailwind`, and `API Integration`
 
+<img align="right" alt="GIF" height="125px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG44emRhcXA1Ymwyc2JjbWR5NmRjeDdvNXBybW13aTR2b3FsNmFtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 💼 Projects:
 - 🔥 [Martabak Rindu](https://github.com/AlfitoDW/MartabakRindu) — Website martabak favorit
 - 🛠️ Portfolio Website (coming soon)
