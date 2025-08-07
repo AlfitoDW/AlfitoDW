@@ -23,6 +23,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AlfitoDW&show_icons=true&theme=radical" />
 </p>
 
+📚 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfitoDW&layout=compact&langs_count=6" alt="top languages" />
+</p>
+
 📫 Reach me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alfito-darma-wijaya-ab505217b/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alfitoarts@gmail.com)
