@@ -25,7 +25,7 @@
 
 📚 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfitoDW&layout=compact&langs_count=6" alt="top languages" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AlfitoDW=AlfitoDW&theme=tokyonight)
 </p>
 
 📫 Reach me on:
