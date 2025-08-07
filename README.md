@@ -24,9 +24,9 @@
 </p>
 
 📚 Most Used Languages
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfitoDW&theme=tokyonight)
-</p>
+
+  ![github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfitoDW&theme=tokyonight)
+
 
 📫 Reach me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alfito-darma-wijaya-ab505217b/)
