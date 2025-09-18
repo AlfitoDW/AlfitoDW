@@ -24,12 +24,12 @@
 
 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlfitoDW&show_icons=true&theme=radical" />
+   <img src="https://alfito-dw.vercel.app/api?username=AlfitoDW&show_icons=true&theme=radical" />
 </p>
 
 📚 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfitoDW&layout=compact&theme=nightowl" alt="top languages" />
+  <img src="https://alfito-dw.vercel.app/api/top-langs/?username=AlfitoDW&layout=compact&theme=nightowl" alt="top languages" />
 </p>
 
 📫 Reach me on:
