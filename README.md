@@ -28,12 +28,12 @@
 
 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats-three-kappa-10.vercel.app/api?username=AlfitoDW&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlfitoDW&show_icons=true&theme=radical&cache_seconds=21600" />
 </p>
 
 📚 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats-three-kappa-10.vercel.app/api/top-langs/?username=AlfitoDW&layout=compact&theme=nightowl" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfitoDW&layout=compact&theme=nightowl&cache_seconds=21600" />
 </p>
 
 
