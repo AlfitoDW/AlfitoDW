@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" alt="Coding GIF" height="180px"
+<img align="right" alt="Coding GIF" height="180"
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG44emRhcXA1Ymwyc2JjbWR5NmRjeDdvNXBybW13aTR2b3FsNmFtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 🌱 **I’m currently learning:**  
@@ -11,13 +11,13 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG44emRhcXA1Ymwyc2JjbWR5N
 
 ---
 
-💼 **Projects**
+## 💼 Projects
 - 🔥 [Martabak Rindu](https://github.com/AlfitoDW/MartabakRindu) — Website martabak favorit  
 - 🛠️ Portfolio Website *(coming soon)*
 
 ---
 
-🛠 **Tech Stack**
+## 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -32,24 +32,16 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG44emRhcXA1Ymwyc2JjbWR5N
 
 ---
 
-📈 **GitHub Stats**
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AlfitoDW&show_icons=true&theme=radical&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-📚 **Most Used Languages**
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfitoDW&layout=compact&theme=nightowl&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlfitoDW&show_icons=true&theme=radical)
 
 ---
 
-📫 **Reach me on**
+## 📚 Most Used Languages
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlfitoDW&layout=compact&theme=nightowl)
+
+---
+
+## 📫 Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alfito-darma-wijaya-ab505217b/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alfitoarts@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alfitoarts@gmail.com)
