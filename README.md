@@ -33,13 +33,13 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG44emRhcXA1Ymwyc2JjbWR5N
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://alfito-dw-vff6.vercel.app/api?username=AlfitoDW&show_icons=true&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlfitoDW&theme=github_dark)
 
 
 ---
 
 ## 📚 Most Used Languages
-![Top Languages](https://alfito-dw-vff6.vercel.app/api/top-langs/?username=AlfitoDW&layout=compact&theme=nightowl)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlfitoDW&theme=github_dark)
 
 
 ---
