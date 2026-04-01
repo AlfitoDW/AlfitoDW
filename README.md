@@ -14,9 +14,8 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG44emRhcXA1Ymwyc2JjbWR5N
 
 ## 💼 Projects
 - 🔥 [Martabak Rindu](https://github.com/AlfitoDW/MartabakRindu) — Website martabak favorit  
-- 🛠️ Portfolio Website *(coming soon)*
-
----
+- 🛠️ [Portfolio](https://portiofolio-with-next.vercel.app/) - Website Portfolio
+  
 
 ## 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
